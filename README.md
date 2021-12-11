@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joelkahato
 - 👀 I’m interested in programing 
-- 🌱 I’m currently learning jzva
+- 🌱 I’m currently learning java language
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me : joelkahato@gmail.com
 
